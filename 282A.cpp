@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string.h>
 using namespace std;
+#include<bits/stdc++.h>
 
 int main()
 {
