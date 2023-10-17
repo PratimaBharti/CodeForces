@@ -11,12 +11,8 @@ int main()
     while (input--)
     {
         cin >> s;
-        if(s[0] == '+')
+        if(s[1] == '+')
         ++x;
-        else if(s[0] == '-')
-        --x;
-        else if(s[2] == '+')
-        x++;
         else
         x--;
 
