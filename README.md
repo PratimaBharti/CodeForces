@@ -1,2 +1,2 @@
 # CodeForces
-This contains questions from codeforces 
+This contains questions/solutions from codeforces. 
